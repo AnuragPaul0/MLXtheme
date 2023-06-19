@@ -1,9 +1,24 @@
 # MLXtheme
 HTML export of MLX file with theme button using MATLAB.
 
+[Button-Dark.html](https://anuragpaul0.github.io/MLXtheme/Button-Dark.html)
+
 [Button.html](https://anuragpaul0.github.io/MLXtheme/Button.html)
 
-[Button-Dark.html](https://anuragpaul0.github.io/MLXtheme/Button-Dark.html)
+## Usage
+
+Just replace the adress of the HTML export, as input at the top of the Button.mlx file in matlab.
+
+```
+ad = '/MATLAB Drive/MLX.html'
+```
+A new file MLX-dark.html should be created with the same content with a theme button.
+
+### Content
+
+* `Button-Dark.html` is the `Button.html` with the theme button.
+* `Button.html` is the export of `Button.mlx`.
+* `Button.mlx` contains the main program, constants and most functions that are used to add the button with its functionality.
 
 ## License
 
