@@ -22,9 +22,9 @@ A new file MLX-dark.html should be created with the same content with a theme bu
 
 
 ## Variables:
-* `ad` =  address
-* `ans`=  fwrite(fopen(ad, 'w'),n);    ->    fclose('all');
-* `n`  =  editing HTML text string.
+* `ad`   =  address
+* `ans`  =  fwrite(fopen(ad, 'w'),n);    ->    fclose('all');
+* `n`    =  editing HTML text string.
 
 ## License
 
