@@ -20,6 +20,12 @@ A new file MLX-dark.html should be created with the same content with a theme bu
 * `Button.html` is the export of `Button.mlx`.
 * `Button.mlx` contains the main program, constants and most functions that are used to add the button with its functionality.
 
+
+## Variables:
+* `ad` =  address
+* `ans`=  fwrite(fopen(ad, 'w'),n);    ->    fclose('all');
+* `n`  =  editing HTML text string.
+
 ## License
 
 MIT License
