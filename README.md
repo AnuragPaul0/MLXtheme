@@ -3,7 +3,11 @@ HTML export of MLX file with theme button using MATLAB.
 
 [Button-Dark.html](https://anuragpaul0.github.io/MLXtheme/Button-Dark.html)
 
+[Fixed-Dark.html](https://anuragpaul0.github.io/MLXtheme/Fixed-Dark.html)
+
 [Button.html](https://anuragpaul0.github.io/MLXtheme/Button.html)
+
+[Fixed.html](https://anuragpaul0.github.io/MLXtheme/Fixed.html)
 
 ## Usage
 
